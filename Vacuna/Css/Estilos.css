@@ -1,0 +1,97 @@
+
+.container{
+    width: 1000px;
+    background-color: white;
+    margin: auto;
+}
+body{
+    background-color: azure;
+}
+.top{
+    margin-top: 30px;
+}
+.menu{
+    float: right;
+}
+.menu li{
+    display: inline-block;
+}
+.menu a{
+    color: black;
+    text-decoration: none;
+    padding: 20px;
+}
+.menu a:hover{
+    background-color: blue;
+}
+.menu {
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.col {
+    width: 497px;
+    display: inline-block;
+    vertical-align: top;
+}
+.col {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    
+
+}
+
+.info {
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    justify-content: center;
+}
+
+.Texto1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    
+}
+.col1 {
+    width: 240px;
+    display: inline-block;
+    vertical-align: top;
+}
+.col1 {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.Texto3 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    justify-content: left;
+    
+}
+.col2 {
+    width: 400px;
+    display: inline-block;
+    vertical-align: top;
+}
+.col2 {
+    font-family: Arial, Helvetica, sans-serif;
+}
+.Emer {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    
+}
+
+.PP {
+    width: 1000px;
+    margin: auto;
+    background-color: #8EBBFB;
+}
+
+.col3 {
+    width: 210px;
+    display: inline-block;
+    vertical-align: top;
+}
+.col3 {
+    font-family: Arial, Helvetica, sans-serif;
+
+}
